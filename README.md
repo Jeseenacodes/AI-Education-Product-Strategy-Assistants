@@ -8,9 +8,13 @@ This repository contains two custom AI assistants designed to solve real-world c
 
 An AI-powered product advisor designed to support the growth and development of **Little Noories**, an Islamic educational platform for children ages 4–10.
 
+GPT link: https://chatgpt.com/g/g-6a1cb8593c808191832f663701b95f11-little-noories-product-strategist 
+
 ### 2. Tamilingo Curriculum Designer
 
 An AI-powered curriculum specialist designed to support **Tamilingo**, a Tamil language learning platform focused on helping children and beginner learners build confidence in speaking, reading, writing, and understanding Tamil.
+
+GPT link: https://chatgpt.com/g/g-6a1cbda686188191a8be6cd3ed32b2ad-tamilingo-curriculum-designer  
 
 ---
 
